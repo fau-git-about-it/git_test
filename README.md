@@ -1,0 +1,1 @@
+This is Justin Kuang's first git project!
