@@ -1,1 +1,1 @@
-This is Justin Kuang's (my )first git project!!
+This is Justin Kuang's (my) first git project!!
